@@ -1,0 +1,2 @@
+# Lesson_Plan-5_Utility_Maximization__Portfolio_Choice
+Lesson Plan 5: Utility Maximization &amp; Portfolio Choice, where we explore the mathematical foundations of investor decision-making under uncertainty. This lesson bridges economic theory with computational implementation, teaching students how to model preferences, solve optimization problems, and determine optimal investment strategies using Python.
